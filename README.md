@@ -32,7 +32,7 @@ and `only` which runs only that test. But what if more than one test have the
 
 ### State variables
 
-  - [ ] should have an owner
+  - [X] should have an owner
     <details><summary>:book:</summary>
 
     The contract should have an owner, of type address that is public.
@@ -40,7 +40,7 @@ and `only` which runs only that test. But what if more than one test have the
 
     </details>
 
-  - [ ] should have an skuCount
+  - [X] should have an skuCount
     <details><summary>:book:</summary>
 
     The contract will keep track of the
